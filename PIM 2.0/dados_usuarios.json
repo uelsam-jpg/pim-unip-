@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "senha": "Admin@123",
+        "email": "admin@escola.com",
+        "idade": 30,
+        "is_admin": true,
+        "data_cadastro": "2025-05-22T19:37:21.093570"
+    },
+    "davi": {
+        "senha": "Davi1234@",
+        "email": "davi@gmail.com",
+        "idade": 21,
+        "is_admin": false,
+        "data_cadastro": "2025-05-22T19:37:40.559999",
+        "cursos": []
+    }
+}
